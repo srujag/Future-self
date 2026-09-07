@@ -1,0 +1,6 @@
+{
+  "name": "Cult Future Self",
+  "description": "Female weight-loss journey app with Future Self aspiration visualization, BMR & calorie deficit calculation, nutrition & hydration tracking, and cult-style motivational coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

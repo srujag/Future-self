@@ -1,0 +1,40 @@
+{
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "name": "Cult Future Self",
+  "short_name": "Cult",
+  "description": "Female weight-loss journey app with Future Self aspiration visualization, BMR & calorie deficit calculation, nutrition & hydration tracking, and athletic cult-style coaching.",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone", "minimal-ui"],
+  "orientation": "portrait",
+  "theme_color": "#0B0B0E",
+  "background_color": "#0B0B0E",
+  "categories": ["fitness", "health", "lifestyle"],
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
